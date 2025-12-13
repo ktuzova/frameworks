@@ -2,6 +2,9 @@
 
 
  laboratory work on applied systems and artificial intelligence frameworks
+ 
+
+ Выплнила Тузова К.К. группа М8О-409б-22
 
 
 Лабораторные работы по дисциплине "	Прикладные системы и фреймворки искусственного интеллекта"
